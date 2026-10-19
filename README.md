@@ -89,6 +89,7 @@ format are in [NOTE.md](NOTE.md).
 | `NOTE.md` | the method and the certificate format (draft) |
 | `AGENTS.md` | the guide for AI agents; `CLAUDE.md` points Claude Code to it |
 | `notes/scouting-2026-10-19.md` | the research so far, with sources, split by how far each fact was checked |
+| `notes/reports/` | the complete scouting reports, kept as written, and the fact-check |
 | `.github/` | the pull request template and the task issue form |
 
 ## Licence
