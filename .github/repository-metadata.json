@@ -1,0 +1,11 @@
+{
+  "description": "Computer-assisted proofs that published numerical periodic orbits of the three-body problem really exist.",
+  "topics": [
+    "foundation0",
+    "three-body-problem",
+    "celestial-mechanics",
+    "interval-arithmetic",
+    "computer-assisted-proof",
+    "periodic-orbits"
+  ]
+}
