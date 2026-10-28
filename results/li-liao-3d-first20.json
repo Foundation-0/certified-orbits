@@ -1,0 +1,366 @@
+{
+  "source_sha256": "a52eb43ec9dc2ef52e931f0e3cdc7708401093ad12c1088345be918b01164eda",
+  "selection": "equal masses; ascending exact printed period",
+  "rows": [
+    {
+      "orbit": "O_{1}(1.0)",
+      "source_line": 5412,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "7.72694581650574e-03",
+      "vx": "2.83156466094625e-01",
+      "vy": "1.18924223368900e-01",
+      "vz": "-4.72808537160256e-02",
+      "period": "6.04741109591794e+00",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{2}(1.0)",
+      "source_line": 5413,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "4.26476007762008e-01",
+      "vx": "3.42350041696232e-01",
+      "vy": "2.77274909715378e-01",
+      "vz": "2.25672241726166e-02",
+      "period": "6.36267196772112e+00",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{3}(1.0)",
+      "source_line": 5414,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "4.76878264280312e-01",
+      "vx": "4.02136910074724e-01",
+      "vy": "1.80356951286259e-01",
+      "vz": "2.10445128137873e-01",
+      "period": "6.83162203628444e+00",
+      "catalogue_stability": "S",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{4}(1.0)",
+      "source_line": 5415,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.06564650719102e-01",
+      "vx": "4.13960730997235e-01",
+      "vy": "4.70469036367436e-02",
+      "vz": "4.42991184207967e-02",
+      "period": "7.23030545798305e+00",
+      "catalogue_stability": "S",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{5}(1.0)",
+      "source_line": 5416,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "8.35526121571887e-02",
+      "vx": "4.93045021950116e-01",
+      "vy": "2.28082940009501e-01",
+      "vz": "2.29880189060409e-01",
+      "period": "7.65351114882614e+00",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{6}(1.0)",
+      "source_line": 5417,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "2.57381108694003e-01",
+      "vx": "3.02417243984710e-01",
+      "vy": "5.60569480937655e-01",
+      "vz": "5.28961092172110e-03",
+      "period": "1.36540158417866e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{7}(1.0)",
+      "source_line": 5418,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "-3.10609261713568e-01",
+      "vx": "4.10510407964223e-01",
+      "vy": "1.28064442759346e-01",
+      "vz": "-1.32304439774849e-01",
+      "period": "1.39816179875663e+01",
+      "catalogue_stability": "S",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{8}(1.0)",
+      "source_line": 5419,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "3.27649924103429e-01",
+      "vx": "4.86434172510945e-01",
+      "vy": "1.47943646278636e-01",
+      "vz": "-3.60621825871024e-02",
+      "period": "1.68146957111017e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{9}(1.0)",
+      "source_line": 5420,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.92548096928661e-01",
+      "vx": "3.33884106665291e-01",
+      "vy": "5.39782494938433e-01",
+      "vz": "3.61054528535772e-03",
+      "period": "1.96566389794529e+01",
+      "catalogue_stability": "S",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{10}(1.0)",
+      "source_line": 5421,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.29088742791757e-01",
+      "vx": "1.73683642837606e-01",
+      "vy": "3.85800211977081e-01",
+      "vz": "-3.02874313904138e-03",
+      "period": "1.98468596567597e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{11}(1.0)",
+      "source_line": 5422,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.76117158015079e-01",
+      "vx": "4.21360753464373e-01",
+      "vy": "1.99586639485626e-01",
+      "vz": "-1.33970868434966e-01",
+      "period": "2.05644181432495e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{12}(1.0)",
+      "source_line": 5423,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "-6.15327605278007e-01",
+      "vx": "3.87071484039304e-01",
+      "vy": "2.16130429077841e-01",
+      "vz": "-2.82311439774781e-01",
+      "period": "2.06882699584806e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{13}(1.0)",
+      "source_line": 5424,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "9.07324296154095e-01",
+      "vx": "4.67277674584917e-01",
+      "vy": "1.60865741441835e-01",
+      "vz": "5.96790806900094e-03",
+      "period": "2.11231634068305e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{14}(1.0)",
+      "source_line": 5425,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.91752294421993e-01",
+      "vx": "4.36299302983688e-01",
+      "vy": "2.03479768843377e-01",
+      "vz": "-1.17135283688635e-01",
+      "period": "2.13494531663129e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{15}(1.0)",
+      "source_line": 5426,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.29612884513947e-01",
+      "vx": "4.48019111563547e-01",
+      "vy": "2.09759846632700e-01",
+      "vz": "-1.33440882712882e-01",
+      "period": "2.17905181419766e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{16}(1.0)",
+      "source_line": 5427,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "2.20820903197711e-01",
+      "vx": "4.51102022537440e-01",
+      "vy": "1.96122688866789e-01",
+      "vz": "-1.11130887095851e-01",
+      "period": "2.21098815749909e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{17}(1.0)",
+      "source_line": 5428,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "9.44343488039080e-01",
+      "vx": "3.42619063342173e-01",
+      "vy": "2.84612714951219e-01",
+      "vz": "-2.48781856708553e-03",
+      "period": "2.24423834008627e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{18}(1.0)",
+      "source_line": 5429,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "9.35564093960572e-01",
+      "vx": "4.20041506023178e-01",
+      "vy": "1.96554059554717e-01",
+      "vz": "1.51491941098965e-02",
+      "period": "2.43742275372368e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{19}(1.0)",
+      "source_line": 5430,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "-1.48424518745226e-01",
+      "vx": "5.20609081912546e-01",
+      "vy": "2.06658588407606e-01",
+      "vz": "-2.48185893536132e-01",
+      "period": "2.48403026380344e+01",
+      "catalogue_stability": "U",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    },
+    {
+      "orbit": "O_{20}(1.0)",
+      "source_line": 5431,
+      "masses": [
+        "1",
+        "1",
+        "1"
+      ],
+      "z0": "1.44949067603394e-01",
+      "vx": "3.36002691823856e-01",
+      "vy": "5.35082609776682e-01",
+      "vz": "1.46096069635829e-03",
+      "period": "2.54311471535674e+01",
+      "catalogue_stability": "S",
+      "result": "not_attempted",
+      "reason": "rigorous certifier and independent verifier pending",
+      "runtime_seconds": null
+    }
+  ]
+}
