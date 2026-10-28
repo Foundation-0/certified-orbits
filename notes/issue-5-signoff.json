@@ -1,0 +1,16 @@
+{
+  "issue": 5,
+  "status": "awaiting-human-review",
+  "recipient_scope": "Kapela and Zgliczy\u0144ski, through a human-verified route",
+  "required_evidence": "NOTE.md normalization and shooting map; source catalogue hashes; figure-eight method-check certificate when available.",
+  "signoffs": [
+    {
+      "sender": null,
+      "recipient_verified_at": null,
+      "sent_at": null,
+      "reference_proof": null,
+      "normalization_feedback": null,
+      "reply_reference": null
+    }
+  ]
+}
