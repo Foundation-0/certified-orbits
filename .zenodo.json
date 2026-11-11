@@ -1,0 +1,27 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "certified-orbits",
+    "description": "<p>This repository will attempt computer-assisted proofs, using interval arithmetic, that published numerical periodic orbits of the three-body problem exist, and that some listed as linearly stable are linearly stable.</p><p>Status: not started. No proofs or certificates are present yet.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "software",
+    "license": "Apache-2.0",
+    "keywords": [
+        "celestial-mechanics",
+        "computer-assisted-proof",
+        "foundation0",
+        "interval-arithmetic",
+        "periodic-orbits",
+        "three-body-problem"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Foundation-0/certified-orbits",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
