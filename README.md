@@ -95,3 +95,5 @@ format are in [NOTE.md](NOTE.md).
 ## Licence
 
 Apache License 2.0 (see [LICENSE](LICENSE)), as for Foundation0's other repositories.
+
+Draft work for #4: [implementation and remaining checks](notes/independent-verifier.md).
